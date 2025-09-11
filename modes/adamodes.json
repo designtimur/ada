@@ -6045,14 +6045,14 @@
         }
       ]
     },
-    "MeetWife": {
+    "Viva": {
       "documentId": "0:0",
-      "documentName": "MW / Design System",
-      "generatedAt": "2025-09-11T09:44:38.505Z",
+      "documentName": "BS / Design System",
+      "generatedAt": "2025-09-11T09:47:34.062Z",
       "collections": [
         {
           "id": "VariableCollectionId:14:20221",
-          "name": "MW Local Key",
+          "name": "Key Collection",
           "modes": [
             {
               "id": "4:0",
@@ -6068,9 +6068,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55438"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#D6BCE7"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6082,9 +6082,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55437"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#E2CAF1"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6096,9 +6096,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55437"
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#E2CAF1"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -6110,9 +6110,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55438"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#D6BCE7"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6138,9 +6138,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6152,9 +6152,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6166,9 +6166,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6180,9 +6180,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6208,9 +6208,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6222,9 +6222,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -6236,9 +6236,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55439"
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#AA85BE"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -6250,9 +6250,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55439"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#AA85BE"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -6306,11 +6306,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55430"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#939598"
                 }
               }
             },
@@ -6322,11 +6320,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5529412031173706,
-                    "g": 0.3764705955982208,
-                    "b": 0.6627451181411743
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#8D60A9"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -6352,11 +6348,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "aliasTo": "VariableID:4648:55559"
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -6368,11 +6362,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "aliasTo": "VariableID:4648:55556"
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -6426,9 +6418,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55429"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#B9BBBC"
                 }
               }
             },
@@ -6440,11 +6432,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6392157077789307,
-                    "g": 0.5058823823928833,
-                    "b": 0.7098039388656616
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#A381B5"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -6456,11 +6446,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5254902243614197,
-                    "g": 0.33725491166114807,
-                    "b": 0.6392157077789307
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#8656A3"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -6472,11 +6460,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "aliasTo": "VariableID:4648:55559"
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -6488,11 +6474,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "aliasTo": "VariableID:4648:55556"
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -6504,9 +6488,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55439"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#AA85BE"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6520,7 +6504,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#88639F"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6532,11 +6516,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -6548,11 +6530,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -6564,25 +6544,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#B9BBBC"
-                }
-              }
-            },
-            {
-              "id": "VariableID:2458:31814",
-              "name": "global/focus-frame",
-              "path": "global / focus-frame",
-              "type": "COLOR",
-              "modes": {
-                "Mode 1": {
-                  "value": {
-                    "r": 0.4000000059604645,
-                    "g": 0.6078431606292725,
-                    "b": 1
-                  },
-                  "resolvedHex": "#669BFF"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -6594,9 +6558,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55445"
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#FFCDC1"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -6608,9 +6572,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55446"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#FFBBAB"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -6622,9 +6586,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55445"
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#FFCDC1"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -6636,9 +6600,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55446"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#FFBBAB"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -6664,9 +6628,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55448"
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#F37C5C"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -6678,9 +6642,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -6692,11 +6656,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -6708,11 +6670,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -6724,9 +6684,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#B9BBBC"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -6738,9 +6698,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55452"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#963821"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6752,9 +6712,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55452"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#963821"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6766,9 +6726,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55452"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#963821"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6780,9 +6740,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55452"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#963821"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -6808,9 +6768,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55448"
+                    "aliasTo": "VariableID:4648:55450"
                   },
-                  "resolvedHex": "#F37C5C"
+                  "resolvedHex": "#223B56"
                 }
               }
             },
@@ -6822,9 +6782,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55448"
+                    "aliasTo": "VariableID:4648:55446"
                   },
-                  "resolvedHex": "#F37C5C"
+                  "resolvedHex": "#4B7FB9"
                 }
               }
             },
@@ -6836,9 +6796,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55450"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#223B56"
                 }
               }
             },
@@ -6850,9 +6810,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55446"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#4B7FB9"
                 }
               }
             },
@@ -6878,9 +6838,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55456"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DDE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -6892,9 +6852,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -6906,9 +6866,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55456"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DDE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -6920,9 +6880,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -6948,9 +6908,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -6962,9 +6922,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -6976,11 +6936,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -6992,11 +6950,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -7008,9 +6964,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#B9BBBC"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -7022,9 +6978,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7036,9 +6992,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -7050,9 +7006,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7064,9 +7020,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -7092,9 +7048,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55456"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#D2DFED"
                 }
               }
             },
@@ -7106,9 +7062,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55460"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#95B4D6"
                 }
               }
             },
@@ -7120,9 +7076,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7134,9 +7090,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55460"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#95B4D6"
                 }
               }
             },
@@ -7148,9 +7104,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55428"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#DADADB"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -7176,9 +7132,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55453"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -7204,9 +7160,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55453"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -7232,9 +7188,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -7246,9 +7202,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -7260,9 +7216,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -7274,9 +7230,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -7288,9 +7244,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#B9BBBC"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -7302,9 +7258,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7316,9 +7272,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -7330,9 +7286,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7344,9 +7300,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -7372,9 +7328,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55457"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#C3D4E7"
                 }
               }
             },
@@ -7386,9 +7342,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55460"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#95B4D6"
                 }
               }
             },
@@ -7400,9 +7356,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7414,9 +7370,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55460"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#95B4D6"
                 }
               }
             },
@@ -7428,9 +7384,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55428"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#DADADB"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -7596,9 +7552,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7610,9 +7566,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -7624,9 +7580,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7638,9 +7594,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -7680,9 +7636,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7708,9 +7664,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -7750,9 +7706,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55445"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -7764,9 +7720,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55445"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -7792,9 +7748,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -7806,9 +7762,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -7820,9 +7776,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -7918,11 +7874,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -7934,11 +7888,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -7964,9 +7916,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -8034,11 +7986,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "aliasTo": "VariableID:4648:55559"
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -8050,11 +8000,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.3176470696926117,
-                    "g": 0.6980392336845398,
-                    "b": 0.9607843160629272
+                    "aliasTo": "VariableID:4648:55519"
                   },
-                  "resolvedHex": "#51B2F5"
+                  "resolvedHex": "#0E98E6"
                 }
               }
             },
@@ -8066,11 +8014,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "aliasTo": "VariableID:4648:55556"
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -8082,11 +8028,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9372549057006836,
-                    "g": 0.7764706015586853,
-                    "b": 0.2549019753932953
+                    "aliasTo": "VariableID:4648:55526"
                   },
-                  "resolvedHex": "#EFC641"
+                  "resolvedHex": "#F3BB06"
                 }
               }
             },
@@ -8098,9 +8042,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -8112,9 +8056,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -8126,9 +8070,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -8140,9 +8084,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -8154,11 +8098,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55430"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#939598"
                 }
               }
             },
@@ -8170,11 +8112,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55430"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#939598"
                 }
               }
             },
@@ -8186,11 +8126,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55430"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#939598"
                 }
               }
             },
@@ -8202,11 +8140,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55430"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#939598"
                 }
               }
             },
@@ -8218,11 +8154,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 1,
-                    "g": 0.9647058844566345,
-                    "b": 0.9607843160629272
+                    "aliasTo": "VariableID:4648:55424"
                   },
-                  "resolvedHex": "#FFF6F5"
+                  "resolvedHex": "#FFFAFA"
                 }
               }
             },
@@ -8234,11 +8168,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9529411792755127,
-                    "g": 0.9803921580314636,
-                    "b": 1
+                    "aliasTo": "VariableID:4648:55422"
                   },
-                  "resolvedHex": "#F3FAFF"
+                  "resolvedHex": "#F7FBFF"
                 }
               }
             },
@@ -8250,11 +8182,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9647058844566345,
-                    "g": 1,
-                    "b": 0.9215686321258545
+                    "aliasTo": "VariableID:4648:55425"
                   },
-                  "resolvedHex": "#F6FFEB"
+                  "resolvedHex": "#FCFFF7"
                 }
               }
             },
@@ -8266,11 +8196,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 1,
-                    "g": 0.9803921580314636,
-                    "b": 0.9450980424880981
+                    "aliasTo": "VariableID:4648:55423"
                   },
-                  "resolvedHex": "#FFFAF1"
+                  "resolvedHex": "#FFFDF9"
                 }
               }
             },
@@ -8282,11 +8210,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "aliasTo": "VariableID:4648:55559"
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -8298,11 +8224,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.3176470696926117,
-                    "g": 0.6980392336845398,
-                    "b": 0.9607843160629272
+                    "aliasTo": "VariableID:4648:55519"
                   },
-                  "resolvedHex": "#51B2F5"
+                  "resolvedHex": "#0E98E6"
                 }
               }
             },
@@ -8314,11 +8238,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "aliasTo": "VariableID:4648:55556"
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -8330,11 +8252,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9372549057006836,
-                    "g": 0.7764706015586853,
-                    "b": 0.2549019753932953
+                    "aliasTo": "VariableID:4648:55526"
                   },
-                  "resolvedHex": "#EFC641"
+                  "resolvedHex": "#F3BB06"
                 }
               }
             },
@@ -8472,9 +8392,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55454"
+                    "aliasTo": "VariableID:4648:55444"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#86A9D0"
                 }
               }
             },
@@ -8486,9 +8406,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55456"
+                    "aliasTo": "VariableID:4648:55445"
                   },
-                  "resolvedHex": "#E4DDE8"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -8528,9 +8448,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -8542,9 +8462,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -8570,9 +8490,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -8584,9 +8504,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -8598,9 +8518,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -8626,9 +8546,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -8642,7 +8562,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55458"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#B3C9E2"
                 }
               }
             },
@@ -8654,9 +8574,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -8696,9 +8616,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -8710,9 +8630,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55441"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#7F5A94"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -8738,9 +8658,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55428"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#DADADB"
                 }
               }
             },
@@ -8752,11 +8672,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6392157077789307,
-                    "g": 0.5058823823928833,
-                    "b": 0.7098039388656616
+                    "aliasTo": "VariableID:4648:55450"
                   },
-                  "resolvedHex": "#A381B5"
+                  "resolvedHex": "#223B56"
                 }
               }
             },
@@ -8768,11 +8686,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5254902243614197,
-                    "g": 0.33725491166114807,
-                    "b": 0.6392157077789307
+                    "aliasTo": "VariableID:4648:55461"
                   },
-                  "resolvedHex": "#8656A3"
+                  "resolvedHex": "#7E9EC1"
                 }
               }
             },
@@ -8798,9 +8714,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -8812,9 +8728,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -8910,11 +8826,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.18442432582378387,
-                    "g": 0.1533121019601822,
-                    "b": 0.2176106721162796
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#2F2737"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -8940,9 +8854,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -8968,11 +8882,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.400191068649292,
-                    "g": 0.20049357414245605,
-                    "b": 0.5160156488418579
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#663384"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -9000,7 +8912,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9028,7 +8940,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9082,9 +8994,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -9096,9 +9008,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -9126,7 +9038,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9154,7 +9066,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9196,7 +9108,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9208,11 +9120,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9224,11 +9134,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9240,9 +9148,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#B9BBBC"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -9254,9 +9162,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55432"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#43474B"
                 }
               }
             },
@@ -9282,9 +9190,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55432"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#43474B"
                 }
               }
             },
@@ -9324,9 +9232,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -9338,9 +9246,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9352,9 +9260,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -9366,9 +9274,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9380,9 +9288,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55428"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#DADADB"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -9394,9 +9302,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55436"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#E2D5E9"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -9408,9 +9316,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9424,7 +9332,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9438,7 +9346,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9478,9 +9386,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9492,11 +9400,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -9508,11 +9414,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -9538,9 +9442,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55428"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#DADADB"
                 }
               }
             },
@@ -9566,11 +9470,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.758404552936554,
-                    "g": 0.7940362095832825,
-                    "b": 0.8652994632720947
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#C1CADD"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -9596,9 +9498,257 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55428"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#DADADB"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1023663",
+              "name": "placeholder/avatar/silhouette",
+              "path": "placeholder / avatar / silhouette",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55454"
+                  },
+                  "resolvedHex": "#F0F4F9"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1023664",
+              "name": "placeholder/avatar/bg",
+              "path": "placeholder / avatar / bg",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55455"
+                  },
+                  "resolvedHex": "#E1EAF3"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250732",
+              "name": "letters/bg/new",
+              "path": "letters / bg / new",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55426"
+                  },
+                  "resolvedHex": "#FFFFFF"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250733",
+              "name": "letters/bg/hover",
+              "path": "letters / bg / hover",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55454"
+                  },
+                  "resolvedHex": "#F0F4F9"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250734",
+              "name": "letters/bg/read",
+              "path": "letters / bg / read",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55426"
+                  },
+                  "resolvedHex": "#FFFFFF"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250735",
+              "name": "letters/bg/replied",
+              "path": "letters / bg / replied",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:10041:253702"
+                  },
+                  "resolvedHex": "#FFF8E3"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250736",
+              "name": "letters/bg/active",
+              "path": "letters / bg / active",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55445"
+                  },
+                  "resolvedHex": "#6994C4"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250737",
+              "name": "letters/divider/default",
+              "path": "letters / divider / default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55454"
+                  },
+                  "resolvedHex": "#F0F4F9"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250738",
+              "name": "informer/bg/default",
+              "path": "informer / bg / default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55426"
+                  },
+                  "resolvedHex": "#FFFFFF"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250742",
+              "name": "informer/text/default",
+              "path": "informer / text / default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55433"
+                  },
+                  "resolvedHex": "#262428"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250743",
+              "name": "informer/placeholder/default",
+              "path": "informer / placeholder / default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55431"
+                  },
+                  "resolvedHex": "#66696D"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250744",
+              "name": "informer/progress/active",
+              "path": "informer / progress / active",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55442"
+                  },
+                  "resolvedHex": "#A1346D"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8011:1250745",
+              "name": "informer/progress-bg/default",
+              "path": "informer / progress-bg / default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55456"
+                  },
+                  "resolvedHex": "#D2DFED"
+                }
+              }
+            },
+            {
+              "id": "VariableID:8017:1696717",
+              "name": "button/border-corner/variable",
+              "path": "button / border-corner / variable",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 2
+                }
+              }
+            },
+            {
+              "id": "VariableID:8017:1696718",
+              "name": "button/border-corner/5px",
+              "path": "button / border-corner / 5px",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 2
+                }
+              }
+            },
+            {
+              "id": "VariableID:8017:1696719",
+              "name": "button/border-corner/10px",
+              "path": "button / border-corner / 10px",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 2
+                }
+              }
+            },
+            {
+              "id": "VariableID:8017:1696720",
+              "name": "button/border-corner/15px",
+              "path": "button / border-corner / 15px",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 2
+                }
+              }
+            },
+            {
+              "id": "VariableID:8017:1696721",
+              "name": "button/border-corner/0px",
+              "path": "button / border-corner / 0px",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 0
+                }
+              }
+            },
+            {
+              "id": "VariableID:8025:5020020",
+              "name": "button/border-corner/full",
+              "path": "button / border-corner / full",
+              "type": "FLOAT",
+              "modes": {
+                "Mode 1": {
+                  "value": 2
                 }
               }
             }
@@ -9606,7 +9756,7 @@
         },
         {
           "id": "VariableCollectionId:4648:55390",
-          "name": "MW GLOBAL",
+          "name": "Global Colors",
           "modes": [
             {
               "id": "4648:0",
@@ -9622,9 +9772,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55441"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#7F5A94"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -9636,9 +9786,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -9650,9 +9800,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9664,9 +9814,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55437"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#E2CAF1"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -9678,9 +9828,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55438"
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#D6BCE7"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -9692,9 +9842,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55439"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#AA85BE"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -9706,9 +9856,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55440"
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#88639F"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -9722,7 +9872,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55445"
                   },
-                  "resolvedHex": "#FFCDC1"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -9736,7 +9886,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55446"
                   },
-                  "resolvedHex": "#FFBBAB"
+                  "resolvedHex": "#4B7FB9"
                 }
               }
             },
@@ -9748,9 +9898,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55448"
+                    "aliasTo": "VariableID:4648:55456"
                   },
-                  "resolvedHex": "#F37C5C"
+                  "resolvedHex": "#D2DFED"
                 }
               }
             },
@@ -9762,9 +9912,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55457"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#C3D4E7"
                 }
               }
             },
@@ -9776,9 +9926,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9790,9 +9940,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9804,9 +9954,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9818,9 +9968,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55459"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9834,7 +9984,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -9848,7 +9998,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9860,11 +10010,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9058823585510254,
-                    "g": 0.8901960849761963,
-                    "b": 0.9176470637321472
+                    "aliasTo": "VariableID:4648:55435"
                   },
-                  "resolvedHex": "#E7E3EA"
+                  "resolvedHex": "#FFF0E0"
                 }
               }
             },
@@ -9878,7 +10026,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9892,7 +10040,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -9904,9 +10052,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55449"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -9920,7 +10068,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#7F5A94"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -9932,9 +10080,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55444"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#FFE9E4"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -9960,11 +10108,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9609212279319763,
-                    "g": 0.372044175863266,
-                    "b": 0.4004238247871399
+                    "r": 0.9764705896377563,
+                    "g": 0.22745098173618317,
+                    "b": 0.239215686917305
                   },
-                  "resolvedHex": "#F55F66"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -9976,11 +10124,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9515462517738342,
-                    "g": 0.978801429271698,
+                    "r": 0.9686274528503418,
+                    "g": 0.9843137264251709,
                     "b": 1
                   },
-                  "resolvedHex": "#F3FAFF"
+                  "resolvedHex": "#F7FBFF"
                 }
               }
             },
@@ -9993,10 +10141,10 @@
                 "Mode 1": {
                   "value": {
                     "r": 1,
-                    "g": 0.9797331094741821,
-                    "b": 0.9447265863418579
+                    "g": 0.9921568632125854,
+                    "b": 0.9764705896377563
                   },
-                  "resolvedHex": "#FFFAF1"
+                  "resolvedHex": "#FFFDF9"
                 }
               }
             },
@@ -10009,10 +10157,10 @@
                 "Mode 1": {
                   "value": {
                     "r": 1,
-                    "g": 0.9630325436592102,
-                    "b": 0.9601888060569763
+                    "g": 0.9803921580314636,
+                    "b": 0.9803921580314636
                   },
-                  "resolvedHex": "#FFF6F5"
+                  "resolvedHex": "#FFFAFA"
                 }
               }
             },
@@ -10024,11 +10172,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9665080308914185,
+                    "r": 0.9882352948188782,
                     "g": 1,
-                    "b": 0.9232422113418579
+                    "b": 0.9686274528503418
                   },
-                  "resolvedHex": "#F6FFEB"
+                  "resolvedHex": "#FCFFF7"
                 }
               }
             },
@@ -10184,11 +10332,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8941176533699036,
-                    "g": 0.8705882430076599,
-                    "b": 0.9098039269447327
+                    "r": 1,
+                    "g": 0.9411764740943909,
+                    "b": 0.8784313797950745
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#FFF0E0"
                 }
               }
             },
@@ -10200,11 +10348,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.886274516582489,
-                    "g": 0.8352941274642944,
-                    "b": 0.9137254953384399
+                    "r": 0.9764705896377563,
+                    "g": 0.8745098114013672,
+                    "b": 0.7764706015586853
                   },
-                  "resolvedHex": "#E2D5E9"
+                  "resolvedHex": "#F9DFC6"
                 }
               }
             },
@@ -10216,11 +10364,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8867418169975281,
-                    "g": 0.792244017124176,
-                    "b": 0.9455403685569763
+                    "r": 0.9607843160629272,
+                    "g": 0.800000011920929,
+                    "b": 0.6352941393852234
                   },
-                  "resolvedHex": "#E2CAF1"
+                  "resolvedHex": "#F5CCA2"
                 }
               }
             },
@@ -10232,11 +10380,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8392156958580017,
-                    "g": 0.7372549176216125,
-                    "b": 0.9058823585510254
+                    "r": 1,
+                    "g": 0.6705882549285889,
+                    "b": 0.34117648005485535
                   },
-                  "resolvedHex": "#D6BCE7"
+                  "resolvedHex": "#FFAB57"
                 }
               }
             },
@@ -10248,11 +10396,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6666666865348816,
-                    "g": 0.5215686559677124,
-                    "b": 0.7450980544090271
+                    "r": 1,
+                    "g": 0.5843137502670288,
+                    "b": 0.16470588743686676
                   },
-                  "resolvedHex": "#AA85BE"
+                  "resolvedHex": "#FF952A"
                 }
               }
             },
@@ -10264,11 +10412,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5333333611488342,
-                    "g": 0.38823530077934265,
-                    "b": 0.6235294342041016
+                    "r": 0.9882352948188782,
+                    "g": 0.4941176474094391,
+                    "b": 0
                   },
-                  "resolvedHex": "#88639F"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -10280,11 +10428,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.49803921580314636,
-                    "g": 0.3529411852359772,
-                    "b": 0.5803921818733215
+                    "r": 0.8392156958580017,
+                    "g": 0.32156863808631897,
+                    "b": 0.14509804546833038
                   },
-                  "resolvedHex": "#7F5A94"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -10296,11 +10444,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.47058823704719543,
-                    "g": 0.3019607961177826,
-                    "b": 0.5764706134796143
+                    "r": 0.6313725709915161,
+                    "g": 0.20392157137393951,
+                    "b": 0.4274509847164154
                   },
-                  "resolvedHex": "#784D93"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -10312,11 +10460,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4470588266849518,
-                    "g": 0.250980406999588,
-                    "b": 0.5607843399047852
+                    "r": 0.45490196347236633,
+                    "g": 0.14901961386203766,
+                    "b": 0.49803921580314636
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -10328,11 +10476,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 1,
-                    "g": 0.9137254953384399,
-                    "b": 0.8941176533699036
+                    "r": 0.5254902243614197,
+                    "g": 0.6627451181411743,
+                    "b": 0.8156862854957581
                   },
-                  "resolvedHex": "#FFE9E4"
+                  "resolvedHex": "#86A9D0"
                 }
               }
             },
@@ -10344,11 +10492,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 1,
-                    "g": 0.8039215803146362,
-                    "b": 0.7568627595901489
+                    "r": 0.4117647111415863,
+                    "g": 0.5803921818733215,
+                    "b": 0.7686274647712708
                   },
-                  "resolvedHex": "#FFCDC1"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -10360,11 +10508,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 1,
-                    "g": 0.7333333492279053,
-                    "b": 0.6705882549285889
+                    "r": 0.29411765933036804,
+                    "g": 0.49803921580314636,
+                    "b": 0.7254902124404907
                   },
-                  "resolvedHex": "#FFBBAB"
+                  "resolvedHex": "#4B7FB9"
                 }
               }
             },
@@ -10376,11 +10524,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9803921580314636,
-                    "g": 0.6549019813537598,
-                    "b": 0.5686274766921997
+                    "r": 0.24313725531101227,
+                    "g": 0.41960784792900085,
+                    "b": 0.615686297416687
                   },
-                  "resolvedHex": "#FAA791"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -10392,11 +10540,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9529411792755127,
-                    "g": 0.48627451062202454,
-                    "b": 0.3607843220233917
+                    "r": 0.19607843458652496,
+                    "g": 0.34117648005485535,
+                    "b": 0.501960813999176
                   },
-                  "resolvedHex": "#F37C5C"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -10408,11 +10556,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.929411768913269,
-                    "g": 0.38823530077934265,
-                    "b": 0.250980406999588
+                    "r": 0.16470588743686676,
+                    "g": 0.2862745225429535,
+                    "b": 0.41960784792900085
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#2A496B"
                 }
               }
             },
@@ -10424,11 +10572,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8392156958580017,
-                    "g": 0.3333333432674408,
-                    "b": 0.2078431397676468
+                    "r": 0.13333334028720856,
+                    "g": 0.23137255012989044,
+                    "b": 0.33725491166114807
                   },
-                  "resolvedHex": "#D65535"
+                  "resolvedHex": "#223B56"
                 }
               }
             },
@@ -10440,11 +10588,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.7372549176216125,
-                    "g": 0.250980406999588,
-                    "b": 0.12941177189350128
+                    "r": 0.10196078568696976,
+                    "g": 0.1725490242242813,
+                    "b": 0.2549019753932953
                   },
-                  "resolvedHex": "#BC4021"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -10456,11 +10604,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5882353186607361,
-                    "g": 0.21960784494876862,
-                    "b": 0.12941177189350128
+                    "r": 0.06666667014360428,
+                    "g": 0.11764705926179886,
+                    "b": 0.1764705926179886
                   },
-                  "resolvedHex": "#963821"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -10472,11 +10620,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9764705896377563,
-                    "g": 0.9764705896377563,
-                    "b": 0.9764705896377563
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
                   },
-                  "resolvedHex": "#F9F9F9"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -10488,11 +10636,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9333333373069763,
-                    "g": 0.9254902005195618,
-                    "b": 0.9411764740943909
+                    "r": 0.9411764740943909,
+                    "g": 0.95686274766922,
+                    "b": 0.9764705896377563
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -10504,11 +10652,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9137254953384399,
-                    "g": 0.8980392217636108,
-                    "b": 0.929411768913269
+                    "r": 0.8823529481887817,
+                    "g": 0.9176470637321472,
+                    "b": 0.9529411792755127
                   },
-                  "resolvedHex": "#E9E5ED"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -10520,11 +10668,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8941176533699036,
-                    "g": 0.8666666746139526,
-                    "b": 0.9098039269447327
+                    "r": 0.8235294222831726,
+                    "g": 0.8745098114013672,
+                    "b": 0.929411768913269
                   },
-                  "resolvedHex": "#E4DDE8"
+                  "resolvedHex": "#D2DFED"
                 }
               }
             },
@@ -10536,11 +10684,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8588235378265381,
-                    "g": 0.8235294222831726,
-                    "b": 0.8784313797950745
+                    "r": 0.7647058963775635,
+                    "g": 0.8313725590705872,
+                    "b": 0.9058823585510254
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#C3D4E7"
                 }
               }
             },
@@ -10552,11 +10700,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.7568627595901489,
-                    "g": 0.7098039388656616,
-                    "b": 0.7843137383460999
+                    "r": 0.7019608020782471,
+                    "g": 0.7882353067398071,
+                    "b": 0.886274516582489
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#B3C9E2"
                 }
               }
             },
@@ -10568,11 +10716,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6549019813537598,
-                    "g": 0.5921568870544434,
-                    "b": 0.6980392336845398
+                    "r": 0.6431372761726379,
+                    "g": 0.7450980544090271,
+                    "b": 0.8627451062202454
                   },
-                  "resolvedHex": "#A797B2"
+                  "resolvedHex": "#A4BEDC"
                 }
               }
             },
@@ -10584,11 +10732,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.45098039507865906,
-                    "g": 0.38823530077934265,
-                    "b": 0.5137255191802979
+                    "r": 0.5843137502670288,
+                    "g": 0.7058823704719543,
+                    "b": 0.8392156958580017
                   },
-                  "resolvedHex": "#736383"
+                  "resolvedHex": "#95B4D6"
                 }
               }
             },
@@ -10600,11 +10748,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.2980392277240753,
-                    "g": 0.239215686917305,
-                    "b": 0.3607843220233917
+                    "r": 0.4941176474094391,
+                    "g": 0.6196078658103943,
+                    "b": 0.7568627595901489
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#7E9EC1"
                 }
               }
             },
@@ -10616,11 +10764,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8980392217636108,
-                    "g": 0.9058823585510254,
-                    "b": 0.9098039269447327
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#E5E7E8"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -10634,7 +10780,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -10646,11 +10792,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8039215803146362,
-                    "g": 0.8196078538894653,
-                    "b": 0.8313725590705872
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#CDD1D4"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -10662,9 +10806,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -10676,9 +10820,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55457"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#DBD2E0"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -10704,9 +10848,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -10718,11 +10862,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "r": 0.9764705896377563,
+                    "g": 0.22745098173618317,
+                    "b": 0.239215686917305
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -10734,11 +10878,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "r": 0.13333334028720856,
+                    "g": 0.7019608020782471,
+                    "b": 0.4117647111415863
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -10750,11 +10894,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.458046555519104,
-                    "g": 0.817919909954071,
-                    "b": 0.4402310252189636
+                    "r": 0.14901961386203766,
+                    "g": 0.7647058963775635,
+                    "b": 0.45098039507865906
                   },
-                  "resolvedHex": "#75D170"
+                  "resolvedHex": "#26C373"
                 }
               }
             },
@@ -10766,11 +10910,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55429"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#B9BBBC"
                 }
               }
             },
@@ -10782,9 +10924,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55429"
+                    "aliasTo": "VariableID:4648:55428"
                   },
-                  "resolvedHex": "#B9BBBC"
+                  "resolvedHex": "#DADADB"
                 }
               }
             },
@@ -10796,11 +10938,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -10812,11 +10952,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.3176470696926117,
-                    "g": 0.6980392336845398,
-                    "b": 0.9607843160629272
+                    "r": 0.054901961237192154,
+                    "g": 0.5960784554481506,
+                    "b": 0.9019607901573181
                   },
-                  "resolvedHex": "#51B2F5"
+                  "resolvedHex": "#0E98E6"
                 }
               }
             },
@@ -10828,11 +10968,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5647059082984924,
-                    "g": 0.5843137502670288,
-                    "b": 0.6078431606292725
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#90959B"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -10872,11 +11010,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9882352948188782,
-                    "g": 0.95686274766922,
-                    "b": 0.9372549057006836
+                    "r": 0.9803921580314636,
+                    "g": 0.9411764740943909,
+                    "b": 0.9019607901573181
                   },
-                  "resolvedHex": "#FCF4EF"
+                  "resolvedHex": "#FAF0E6"
                 }
               }
             },
@@ -10902,11 +11040,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5529412031173706,
-                    "g": 0.3764705955982208,
-                    "b": 0.6627451181411743
+                    "aliasTo": "VariableID:4648:55447"
                   },
-                  "resolvedHex": "#8D60A9"
+                  "resolvedHex": "#3E6B9D"
                 }
               }
             },
@@ -10918,11 +11054,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9372549057006836,
-                    "g": 0.7764706015586853,
-                    "b": 0.2549019753932953
+                    "r": 0.9529411792755127,
+                    "g": 0.7333333492279053,
+                    "b": 0.0235294122248888
                   },
-                  "resolvedHex": "#EFC641"
+                  "resolvedHex": "#F3BB06"
                 }
               }
             },
@@ -10934,11 +11070,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6431372761726379,
-                    "g": 0.7960784435272217,
-                    "b": 0.3803921639919281
+                    "r": 0.13333334028720856,
+                    "g": 0.7019608020782471,
+                    "b": 0.4117647111415863
                   },
-                  "resolvedHex": "#A4CB61"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -10950,11 +11086,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4000000059604645,
-                    "g": 0.6078431606292725,
-                    "b": 1
+                    "r": 0.3019607961177826,
+                    "g": 0.529411792755127,
+                    "b": 0.95686274766922
                   },
-                  "resolvedHex": "#669BFF"
+                  "resolvedHex": "#4D87F4"
                 }
               }
             },
@@ -10966,11 +11102,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5254902243614197,
-                    "g": 0.33725491166114807,
-                    "b": 0.6392157077789307
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#8656A3"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -10982,11 +11116,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9686274528503418,
-                    "g": 0.3176470696926117,
-                    "b": 0.3490196168422699
+                    "r": 0.9764705896377563,
+                    "g": 0.22745098173618317,
+                    "b": 0.239215686917305
                   },
-                  "resolvedHex": "#F75159"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -10998,9 +11132,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55428"
+                    "aliasTo": "VariableID:4648:55427"
                   },
-                  "resolvedHex": "#DADADB"
+                  "resolvedHex": "#EFEFEF"
                 }
               }
             },
@@ -11012,11 +11146,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6392157077789307,
-                    "g": 0.5058823823928833,
-                    "b": 0.7098039388656616
+                    "aliasTo": "VariableID:4648:55448"
                   },
-                  "resolvedHex": "#A381B5"
+                  "resolvedHex": "#325780"
                 }
               }
             },
@@ -11028,9 +11160,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55458"
+                    "aliasTo": "VariableID:4648:55455"
                   },
-                  "resolvedHex": "#C1B5C8"
+                  "resolvedHex": "#E1EAF3"
                 }
               }
             },
@@ -11044,7 +11176,7 @@
                   "value": {
                     "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11098,9 +11230,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55461"
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#4C3D5C"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -11126,11 +11258,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5529412031173706,
-                    "g": 0.3764705955982208,
-                    "b": 0.6627451181411743
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#8D60A9"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11142,11 +11272,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5254902243614197,
-                    "g": 0.33725491166114807,
-                    "b": 0.6392157077789307
+                    "aliasTo": "VariableID:4648:55446"
                   },
-                  "resolvedHex": "#8656A3"
+                  "resolvedHex": "#4B7FB9"
                 }
               }
             },
@@ -11158,11 +11286,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5529412031173706,
-                    "g": 0.3764705955982208,
-                    "b": 0.6627451181411743
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#8D60A9"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -11174,9 +11300,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55445"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#6994C4"
                 }
               }
             },
@@ -11188,11 +11314,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8705882430076599,
-                    "g": 0.8392156958580017,
-                    "b": 0.886274516582489
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#DED6E2"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -11204,9 +11328,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55433"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11246,9 +11370,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55432"
+                    "aliasTo": "VariableID:4648:55426"
                   },
-                  "resolvedHex": "#43474B"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -11260,11 +11384,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5960784554481506,
-                    "g": 0.7372549176216125,
-                    "b": 0.3529411852359772
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#98BC5A"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11276,9 +11398,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -11304,9 +11426,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55440"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#88639F"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11318,11 +11440,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5176470875740051,
-                    "g": 0.6784313917160034,
-                    "b": 0.24313725531101227
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#84AD3E"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11334,9 +11454,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55442"
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#784D93"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11348,9 +11468,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55450"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#223B56"
                 }
               }
             },
@@ -11362,25 +11482,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9725490212440491,
-                    "g": 0.7333333492279053,
-                    "b": 0.125490203499794
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#F8BB20"
-                }
-              }
-            },
-            {
-              "id": "VariableID:4651:55669",
-              "name": "Icons/Theme/Set_6",
-              "path": "Icons / Theme / Set_6",
-              "type": "COLOR",
-              "modes": {
-                "Mode 1": {
-                  "value": {
-                    "aliasTo": "VariableID:4648:55433"
-                  },
-                  "resolvedHex": "#262428"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11392,11 +11496,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8901960849761963,
-                    "g": 0.3450980484485626,
-                    "b": 0.529411792755127
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#E35887"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11408,11 +11510,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.7960784435272217,
-                    "g": 0.2705882489681244,
-                    "b": 0.4588235318660736
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#CB4575"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11424,9 +11524,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11438,9 +11538,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55450"
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#D65535"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11452,11 +11552,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8980392217636108,
-                    "g": 0.6431372761726379,
-                    "b": 0.08627451211214066
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#E5A416"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11468,9 +11566,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55440"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#FC7E00"
                 }
               }
             },
@@ -11482,9 +11580,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -11496,9 +11594,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55443"
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#72408F"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11510,11 +11608,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -11526,11 +11622,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.6499999761581421,
-                    "g": 0.013541638851165771,
-                    "b": 0.013541638851165771
+                    "r": 0.8941176533699036,
+                    "g": 0.07058823853731155,
+                    "b": 0.07058823853731155
                   },
-                  "resolvedHex": "#A60303"
+                  "resolvedHex": "#E41212"
                 }
               }
             },
@@ -11542,11 +11638,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8235294222831726,
-                    "g": 0.13333334028720856,
-                    "b": 0.13333334028720856
+                    "r": 1,
+                    "g": 0,
+                    "b": 0
                   },
-                  "resolvedHex": "#D22222"
+                  "resolvedHex": "#FF0000"
                 }
               }
             },
@@ -11558,11 +11654,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.012013852596282959,
-                    "g": 0.32596585154533386,
-                    "b": 0.7208333611488342
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#0353B8"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11574,11 +11668,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.3176470696926117,
-                    "g": 0.5568627715110779,
-                    "b": 0.9725490212440491
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#518EF8"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11606,11 +11698,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55433"
                   },
-                  "resolvedHex": "#000000"
+                  "resolvedHex": "#262428"
                 }
               }
             },
@@ -11622,11 +11712,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9450980424880981,
-                    "g": 0.26274511218070984,
-                    "b": 0.21176470816135406
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#F14336"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11638,11 +11726,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9843137264251709,
-                    "g": 0.7333333492279053,
-                    "b": 0
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#FBBB00"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11654,11 +11740,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.0941176488995552,
-                    "g": 0.46666666865348816,
-                    "b": 0.9490196108818054
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#1877F2"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11670,11 +11754,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.1568627506494522,
-                    "g": 0.7058823704719543,
-                    "b": 0.27450981736183167
+                    "aliasTo": "VariableID:4648:55441"
                   },
-                  "resolvedHex": "#28B446"
+                  "resolvedHex": "#D65225"
                 }
               }
             },
@@ -11714,11 +11796,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.32549020648002625,
-                    "g": 0.6039215922355652,
-                    "b": 0.7647058963775635
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#539AC3"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -11730,11 +11810,11 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9882352948188782,
-                    "g": 0.3529411852359772,
-                    "b": 0.5529412031173706
+                    "r": 1,
+                    "g": 0.16862745583057404,
+                    "b": 0.6274510025978088
                   },
-                  "resolvedHex": "#FC5A8D"
+                  "resolvedHex": "#FF2BA0"
                 }
               }
             },
@@ -11746,11 +11826,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8588235378265381,
-                    "g": 0.32549020648002625,
-                    "b": 0.19607843458652496
+                    "aliasTo": "VariableID:4648:55443"
                   },
-                  "resolvedHex": "#DB5332"
+                  "resolvedHex": "#74267F"
                 }
               }
             },
@@ -11762,11 +11840,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5568627715110779,
-                    "g": 0.7098039388656616,
-                    "b": 0.2980392277240753
+                    "aliasTo": "VariableID:4648:55556"
                   },
-                  "resolvedHex": "#8EB54C"
+                  "resolvedHex": "#22B369"
                 }
               }
             },
@@ -11778,11 +11854,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.4941176474094391,
-                    "g": 0.2980392277240753,
-                    "b": 0.6117647290229797
+                    "aliasTo": "VariableID:4648:55559"
                   },
-                  "resolvedHex": "#7E4C9C"
+                  "resolvedHex": "#F93A3D"
                 }
               }
             },
@@ -11808,9 +11882,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
@@ -11822,9 +11896,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -11836,11 +11910,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9803921580314636,
-                    "g": 0.9803921580314636,
-                    "b": 0.9803921580314636
+                    "aliasTo": "VariableID:4648:55453"
                   },
-                  "resolvedHex": "#FAFAFA"
+                  "resolvedHex": "#FFFFFF"
                 }
               }
             },
@@ -11852,11 +11924,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0,
-                    "g": 0.6392157077789307,
-                    "b": 1
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#00A3FF"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11868,11 +11938,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.18039216101169586,
-                    "g": 0.18039216101169586,
-                    "b": 0.18039216101169586
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#2E2E2E"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -11884,9 +11952,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55449"
+                    "aliasTo": "VariableID:4648:55452"
                   },
-                  "resolvedHex": "#ED6340"
+                  "resolvedHex": "#111E2D"
                 }
               }
             },
@@ -11898,11 +11966,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.5215686559677124,
-                    "g": 0.32549020648002625,
-                    "b": 0.6431372761726379
+                    "aliasTo": "VariableID:4648:55442"
                   },
-                  "resolvedHex": "#8553A4"
+                  "resolvedHex": "#A1346D"
                 }
               }
             },
@@ -11914,9 +11980,9 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
@@ -11928,18 +11994,16 @@
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.8274509906768799,
-                    "g": 0.7568627595901489,
-                    "b": 0.8666666746139526
+                    "aliasTo": "VariableID:4648:55451"
                   },
-                  "resolvedHex": "#D3C1DD"
+                  "resolvedHex": "#1A2C41"
                 }
               }
             },
             {
-              "id": "VariableID:7059:6304",
-              "name": "Letters/Bg/New",
-              "path": "Letters / Bg / New",
+              "id": "VariableID:10041:253699",
+              "name": "Letter/Bg/New",
+              "path": "Letter / Bg / New",
               "type": "COLOR",
               "modes": {
                 "Mode 1": {
@@ -11951,23 +12015,23 @@
               }
             },
             {
-              "id": "VariableID:7059:6305",
-              "name": "Letters/Bg/Hover",
-              "path": "Letters / Bg / Hover",
+              "id": "VariableID:10041:253700",
+              "name": "Letter/Bg/Hover",
+              "path": "Letter / Bg / Hover",
               "type": "COLOR",
               "modes": {
                 "Mode 1": {
                   "value": {
                     "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#EEECF0"
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             },
             {
-              "id": "VariableID:7059:6306",
-              "name": "Letters/Bg/Read",
-              "path": "Letters / Bg / Read",
+              "id": "VariableID:10041:253701",
+              "name": "Letter/Bg/Read",
+              "path": "Letter / Bg / Read",
               "type": "COLOR",
               "modes": {
                 "Mode 1": {
@@ -11979,32 +12043,46 @@
               }
             },
             {
-              "id": "VariableID:7059:6307",
-              "name": "Letters/Bg/Replied",
-              "path": "Letters / Bg / Replied",
+              "id": "VariableID:10041:253702",
+              "name": "Letter/Bg/Replied",
+              "path": "Letter / Bg / Replied",
               "type": "COLOR",
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "r": 0.9882352948188782,
-                    "g": 0.95686274766922,
-                    "b": 0.9372549057006836
+                    "r": 1,
+                    "g": 0.9725490212440491,
+                    "b": 0.8901960849761963
                   },
-                  "resolvedHex": "#FCF4EF"
+                  "resolvedHex": "#FFF8E3"
                 }
               }
             },
             {
-              "id": "VariableID:7059:6308",
-              "name": "Letters/Bg/Active",
-              "path": "Letters / Bg / Active",
+              "id": "VariableID:10041:253703",
+              "name": "Letter/Bg/Active",
+              "path": "Letter / Bg / Active",
               "type": "COLOR",
               "modes": {
                 "Mode 1": {
                   "value": {
-                    "aliasTo": "VariableID:4648:55435"
+                    "aliasTo": "VariableID:4648:55454"
                   },
-                  "resolvedHex": "#E4DEE8"
+                  "resolvedHex": "#F0F4F9"
+                }
+              }
+            },
+            {
+              "id": "VariableID:13369:3796",
+              "name": "Letters/Divider/Default",
+              "path": "Letters / Divider / Default",
+              "type": "COLOR",
+              "modes": {
+                "Mode 1": {
+                  "value": {
+                    "aliasTo": "VariableID:4648:55454"
+                  },
+                  "resolvedHex": "#F0F4F9"
                 }
               }
             }
@@ -12013,5 +12091,5 @@
       ]
     }
   },
-  "updatedAt": "2025-09-11T09:44:56.079Z"
+  "updatedAt": "2025-09-11T09:47:44.602Z"
 }
